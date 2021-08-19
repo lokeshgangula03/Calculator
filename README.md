@@ -1,3 +1,3 @@
 # Calculator
 Created with CodeSandbox
-https://lokeshgangula03.github.io/Calculator
+lokeshgangula03.github.io/
